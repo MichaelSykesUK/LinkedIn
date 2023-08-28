@@ -1,2 +1,2 @@
 # LinkedIn
-Examples or projects I've worked on to share on my LinkedIn profile
+A collection of projects to share with prospective employers via LinkedIn.
